@@ -3,7 +3,9 @@
   "private": true,
   "version": "2.0.0",
   "type": "module",
+  "homepage": "https://chit-uob.github.io/svelte_supabase_todo_example",
   "scripts": {
+    "deploy": "gh-pages -d dist",
     "dev": "concurrently \"npm run dev:css\" \"vite\"",
     "dev:css": "tailwindcss -w -i ./src/tailwind.css -o src/assets/app.css",
     "build": "npm run build:css && vite build",
