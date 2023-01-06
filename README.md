@@ -8,4 +8,4 @@
 
 # Instructions are explained in my blog post
 
-
+[https://blog.cpbprojects.me/set-up-a-svelte-todo-list-on-self-hosted-supabase-email-sign-up-google-facebook-auth-host-on-github-pages](https://blog.cpbprojects.me/set-up-a-svelte-todo-list-on-self-hosted-supabase-email-sign-up-google-facebook-auth-host-on-github-pages)
