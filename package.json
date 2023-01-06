@@ -3,7 +3,7 @@
   "private": true,
   "version": "2.0.0",
   "type": "module",
-  "homepage": "https://chit-uob.github.io/svelte_supabase_todo_example/",
+  "homepage": "https://svelte-supabase-todo-example.cpbprojects.me/",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "dev": "concurrently \"npm run dev:css\" \"vite\"",
