@@ -26,6 +26,7 @@
 </script>
 
 <div class="w-full h-full bg-gray-200">
+  <h1>The login doesn't work here because I'm using my Supabase instance on other projects.</h1>
   {#if user}
     <Home bind:user />
   {:else}
